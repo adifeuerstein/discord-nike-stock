@@ -1,0 +1,23 @@
+{
+  "name": "Portal Monitors",
+  "version": "1.0.0",
+  "description": "Nike Stock Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "PortalKicks",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.13.0",
+    "@discordjs/rest": "^0.4.1",
+    "axios": "^0.26.1",
+    "canvas": "^2.11.2",
+    "cheerio": "^1.0.0-rc.12",
+    "discord-api-types": "^0.31.1",
+    "discord.js": "^13.6.0",
+    "moment": "^2.29.4",
+    "node-fetch": "^3.3.1",
+    "stack": "^0.1.0"
+  }
+}
